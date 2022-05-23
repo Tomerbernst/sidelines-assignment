@@ -1,0 +1,8 @@
+<form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+    <app-header></app-header>
+    <div class="loginLogo"><img src="../../assets/Headline.png" width="252" height="48"></div>
+    <input class="path-4" type="email" formControlName="email">
+    <img src="../../assets/error message.png" class="error-message" *ngIf="isExist">
+    <div class="divider" *ngIf="!isExist"></div>
+    <button type="submit" class="cta"><label class="lbl">SUBMIT</label></button>
+</form>

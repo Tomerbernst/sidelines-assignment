@@ -1,0 +1,103 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "email": "gfg",
+      "id": 1
+    },
+    {
+      "email": "fsd",
+      "id": 2
+    },
+    {
+      "email": "www",
+      "id": 3
+    },
+    {
+      "email": "ds",
+      "id": 4
+    },
+    {
+      "email": "gf",
+      "id": 5
+    },
+    {
+      "email": "r",
+      "id": 6
+    },
+    {
+      "email": "f",
+      "id": 7
+    },
+    {
+      "email": "g",
+      "id": 8
+    },
+    {
+      "email": "h",
+      "id": 9
+    },
+    {
+      "email": null,
+      "id": 10
+    },
+    {
+      "email": "t",
+      "id": 11
+    },
+    {
+      "email": "d",
+      "id": 12
+    },
+    {
+      "email": "kikik",
+      "id": 13
+    },
+    {
+      "email": "kiki",
+      "id": 14
+    },
+    {
+      "email": "lllll",
+      "id": 15
+    },
+    {
+      "email": "54",
+      "id": 16
+    },
+    {
+      "email": "po",
+      "id": 17
+    },
+    {
+      "email": "fd",
+      "id": 18
+    },
+    {
+      "email": "kkk",
+      "id": 19
+    },
+    {
+      "email": "ww",
+      "id": 20
+    },
+    {
+      "email": "l",
+      "id": 21
+    },
+    {
+      "email": "m",
+      "id": 22
+    },
+    {
+      "email": "md",
+      "id": 23
+    }
+  ]
+}
