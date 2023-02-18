@@ -1,72 +1,68 @@
-
-
-.loginLogo{
-    margin-left:88.5px;
-    margin-right: 87.5px;
-    margin-top:50px;
-    margin-bottom: 25px;
+.loginLogo {
+	margin-left: 88.5px;
+	margin-right: 87.5px;
+	margin-top: 50px;
+	margin-bottom: 25px;
 }
 
 .path-4 {
-    margin-left:47.36px;
-    margin-right: 45.36px;
+	margin-left: 47.36px;
+	margin-right: 45.36px;
+	box-sizing: border-box;
+	height: 58.27px;
+	width: 335.27px;
+	border: 2.64px solid #5F67D4;
+	background-color: #242944;
+	color: #B5C6FF;
+	font-family: "Proxima Nova";
+	font-size: 19.77px;
+	letter-spacing: 0;
+	line-height: 27.68px;
+	padding-left: 69px;
 
-
-    box-sizing: border-box;
-    height: 58.27px;
-    width: 335.27px;
-    border: 2.64px solid #5F67D4;
-    background-color: #242944;
-
-    color: #B5C6FF;
-    font-family: "Proxima Nova";
-    font-size: 19.77px;
-    letter-spacing: 0;
-    line-height: 27.68px;
-    padding-left: 69px;
-
-  }
-
-  form{
-      width: 428px;
-      margin:0 auto;
-  }
-.lbl{
-    height: 60px;
-    width: 82px;
-    color: #FFFFFF;
-    font-family: "Proxima Nova";
-    font-size: 19.77px;
-    font-weight: bold;
-    letter-spacing: 1.32px;
-    line-height: 59.31px;
-    text-align: center;
-    pointer-events:none;
 }
-  .error-message {
-    height: 40px;
-    width: 320px;
-    color: #D35867;
+
+form {
+	width: 428px;
+	margin: 0 auto;
+}
+
+.lbl {
+	height: 60px;
+	width: 82px;
+	color: #FFFFFF;
+	font-family: "Proxima Nova";
+	font-size: 19.77px;
+	font-weight: bold;
+	letter-spacing: 1.32px;
+	line-height: 59.31px;
+	text-align: center;
+	pointer-events: none;
+}
+
+.error-message {
+	height: 40px;
+	width: 320px;
+	color: #D35867;
 	font-family: 'proxima-nova', sans-serif;
-    font-size: 19.77px;
-    letter-spacing: 0;
-    line-height: 27.68px;
-    text-align: center;
-    margin-left:54.5px;
-  }
+	font-size: 19.77px;
+	letter-spacing: 0;
+	line-height: 27.68px;
+	text-align: center;
+	margin-left: 54.5px;
+}
 
-  .divider{
-    height: 40px;
-  }
-  .cta {
-    height: 59.34px;
-    width: 330px;
-    background-color: #6163DB;
-    margin-left:50px;
-    margin-right: 48px;
-    border: none;
-    border-radius: 10px;
-    cursor: pointer;
-  }
+.divider {
+	height: 40px;
+}
 
- 
+.cta {
+	height: 59.34px;
+	width: 330px;
+	background-color: #6163DB;
+	margin-left: 50px;
+	margin-right: 48px;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+}
